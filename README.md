@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-Electrical Engineering (Co-op) student at McMaster University, Dean's Honour List.
+Electrical Engineering (Co-op) student at McMaster University
 
 - 💻 Student Software Developer @ Resonia Health**: full-stack work on a HIPAA-compliant music therapy platform (Next.js, React, TypeScript, Prisma, PostgreSQL, Vitest, GitHub Actions)
 - 📊 Software/Data Engineering Intern @ LUCA Theory**: Python model evaluation, backtesting, and data validation for AI agents
